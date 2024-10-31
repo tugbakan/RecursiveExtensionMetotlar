@@ -1,0 +1,14 @@
+C:\Users\Tugba\Desktop\Patika\Pratikler\RecursiveExtensionMetotlar\bin\Debug\net8.0\RecursiveExtensionMetotlar.exe
+C:\Users\Tugba\Desktop\Patika\Pratikler\RecursiveExtensionMetotlar\bin\Debug\net8.0\RecursiveExtensionMetotlar.deps.json
+C:\Users\Tugba\Desktop\Patika\Pratikler\RecursiveExtensionMetotlar\bin\Debug\net8.0\RecursiveExtensionMetotlar.runtimeconfig.json
+C:\Users\Tugba\Desktop\Patika\Pratikler\RecursiveExtensionMetotlar\bin\Debug\net8.0\RecursiveExtensionMetotlar.dll
+C:\Users\Tugba\Desktop\Patika\Pratikler\RecursiveExtensionMetotlar\bin\Debug\net8.0\RecursiveExtensionMetotlar.pdb
+C:\Users\Tugba\Desktop\Patika\Pratikler\RecursiveExtensionMetotlar\obj\Debug\net8.0\RecursiveExtensionMetotlar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tugba\Desktop\Patika\Pratikler\RecursiveExtensionMetotlar\obj\Debug\net8.0\RecursiveExtensionMetotlar.AssemblyInfoInputs.cache
+C:\Users\Tugba\Desktop\Patika\Pratikler\RecursiveExtensionMetotlar\obj\Debug\net8.0\RecursiveExtensionMetotlar.AssemblyInfo.cs
+C:\Users\Tugba\Desktop\Patika\Pratikler\RecursiveExtensionMetotlar\obj\Debug\net8.0\RecursiveExtensionMetotlar.csproj.CoreCompileInputs.cache
+C:\Users\Tugba\Desktop\Patika\Pratikler\RecursiveExtensionMetotlar\obj\Debug\net8.0\RecursiveExtensionMetotlar.dll
+C:\Users\Tugba\Desktop\Patika\Pratikler\RecursiveExtensionMetotlar\obj\Debug\net8.0\refint\RecursiveExtensionMetotlar.dll
+C:\Users\Tugba\Desktop\Patika\Pratikler\RecursiveExtensionMetotlar\obj\Debug\net8.0\RecursiveExtensionMetotlar.pdb
+C:\Users\Tugba\Desktop\Patika\Pratikler\RecursiveExtensionMetotlar\obj\Debug\net8.0\RecursiveExtensionMetotlar.genruntimeconfig.cache
+C:\Users\Tugba\Desktop\Patika\Pratikler\RecursiveExtensionMetotlar\obj\Debug\net8.0\ref\RecursiveExtensionMetotlar.dll
